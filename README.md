@@ -26,7 +26,7 @@ The state space dimension is 37.  This an episodic task. The environment is cons
 
 2. Place the file in `bin/` directory, and unzip (or decompress) the file.
 
-3. Install all the dependencies from `navigation.txt`contains.
+3. Install all the dependencies from `navigation.txt`.
 
 # Instructions
 The file `dqn_agent.py` corresponds to the agent class and includes the methods for interacting with the environment and training the agent. `model.py` contains the neural network architecture.   `Navigation.ipynb`displays the solution. 
